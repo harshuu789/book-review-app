@@ -4,11 +4,17 @@
 
 ## Features
 -User authentication (login/register)
+
 -Add, edit, and delete book reviews
+
 -Star ratings (1 to 5) and average ratings for books
+
 -Responsive design using Tailwind CSS
+
 -Reviews sorting by rating (highest to lowest or vice versa)
+
 -Reviews are linked with users (each review belongs to a user)
+
 -Authentication is handled using Laravel's built-in features
 
 ## Setup Instructions
